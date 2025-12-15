@@ -1,1 +1,1 @@
-# Projeto-de-Machine-Learning
+Este projeto explora o poder do Processamento de Linguagem Natural (NLP) para prever o comportamento direcional (subida ou queda) do Índice Bovespa (IBOVESPA) em D+1, utilizando o sentimento agregado de notícias financeiras como principal fator preditivo. Reconhecendo a alta volatilidade do mercado de capitais brasileiro e as ineficiências apontadas pela Economia Comportamental, o estudo busca validar empiricamente o fator sentimento como uma fonte de Alpha.
